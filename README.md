@@ -1,7 +1,7 @@
 ## About Me
 
 - 🔭 I’m currently working on **Cloud Native** and **SDV (Software Defined Vehicle)**
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning scheduling in Kubernetes
 - 👯 I’m looking to participate in **MLOps** in **Edge Computing** based on **Kubernetes** ...
 - 🤔 I’m looking for an internship, preferably remote
 - 📫 How to reach me: jackydtt@yeah.net

@@ -1,7 +1,7 @@
 ## About Me
 
-- 🔭 I’m currently working on **Cloud Native** and **Edge LLM**
-- 🌱 I’m currently learning scheduling in Kubernetes
+- 🔭 I’m currently working on **Cloud Native** and **GUI Agent**
+- 🌱 I’m currently learning scheduling in Kubernetes and multi-agent
 - 👯 I’m looking to participate in **MLOps** in **Edge Computing** based on **Kubernetes** ...
 - 🤔 I’m looking for an internship, preferably remote
 - 📫 How to reach me: jackydtt@yeah.net
